@@ -6,7 +6,7 @@
 
 
 # Hi guys 👋 I'm Tanapurached, call me Bank
-<p><em>Software Enginner at <a href="https://tu.ac.th/">Thammasat University</a></br>Frontend Developer at The Assistech
+<p><em>Software Engineer at <a href="https://tu.ac.th/">Thammasat University</a></br>Frontend Developer at The Assistech
 
 - 🌱 I’m currently learning MERN **(** **MongoDB** **Express** **React JS** **Node JS** **)***
 - 📫 How to reach me: tanaputached.pra@gmail.com

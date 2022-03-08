@@ -3,6 +3,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
   
 </p>
+<a href="https://app.daily.dev/tpcbankk"><img src="https://api.daily.dev/devcards/c565090c025248738e5500dbc07c0adb.png?r=q28" width="400" alt="Tanapurached Praphakornviriya's Dev Card"/></a>
 
 
 # Hi guys 👋 I'm Tanapurached, call me Bank

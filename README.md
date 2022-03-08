@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
 
 <a href="https://app.daily.dev/tpcbankk"><img src="https://api.daily.dev/devcards/c565090c025248738e5500dbc07c0adb.png?r=q28" width="400" alt="Tanapurached Praphakornviriya's Dev Card"/></a>
   

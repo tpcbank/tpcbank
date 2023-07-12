@@ -1,7 +1,6 @@
 <a href="https://app.daily.dev/tpcbankk"><img src="https://api.daily.dev/devcards/c565090c025248738e5500dbc07c0adb.png?r=2zq" align="right" width="300" alt="Tanapurached Praphakornviriya's Dev Card"/></a>
 # Hi guys 👋 I'm Tanapurached, call me Bank
 Software Engineer at <a href="https://tu.ac.th/">Thammasat University</a></br>Frontend Developer at The Assistech
-- 🌱 I’m currently learning MERN **(** **MongoDB** **Express** **React JS** **Node JS** **)***
 - 📫 How to reach me: tanapurached.pra@gmail.com
 
 <h3 align="left">Connect with me:</h3>
